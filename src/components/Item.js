@@ -10,7 +10,9 @@ class Item extends Component {
             historicLow: 0
         }
     }
-    
+
+
+
 }
 
 export default Item;
